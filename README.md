@@ -1,0 +1,2 @@
+# Human-Resource-Information-System-in-PHP-MySQLi
+This Human Resource Information System is an online-based system that aims to simplify HR activities such as data entry and tracking of information of employees. With the use of this system, this enables the HR department to spend less time on clerical tasks and helps ensure the accuracy of employees’ data. There’s no need to search through large paper-based employee file to find information. This is a user-friendly system that anyone in charge can easily use its features.
